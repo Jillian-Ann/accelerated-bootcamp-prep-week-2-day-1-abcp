@@ -42,4 +42,3 @@ var document = [
   }
 ]
 
-function AccessChildrenArray (children,tagname){ return children.tagname}
